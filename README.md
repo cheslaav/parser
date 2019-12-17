@@ -2,10 +2,8 @@
 
 
 
-проект на основе  [https://www.youtube.com/watch?v=h3MD3MJzxz4][видео]
+проект на основе видео https://www.youtube.com/watch?v=h3MD3MJzxz4
  
 Устанавливаем модули
 
 `npm i`
-
-[]: https://www.youtube.com/watch?v=h3MD3MJzxz4
